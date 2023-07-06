@@ -1,0 +1,1 @@
+![[numerical 21.pdf]] #numericalanalysis #linearalgebra #eigenstuff
