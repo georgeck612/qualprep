@@ -1,3 +1,0 @@
-![[complex 57.pdf]] #complexanalysis #contourintegration #cauchystheorem
-
-Long but fairly straightforward integral, provided you could come up with the correct contour at the start and the trig inequality. Could not do that on a qual. Maybe I'm expected to know that. I guess I do now after writing this. If the contour was provided I think I would be able to muscle through and stitch together the answer after doing the three integrals, though. I don't think they would ask for a proof of the value of the Gaussian integral but I am mostly able to do that as well, so long as I avoid getting too technical about the limits and mess myself up.
