@@ -1,0 +1,1 @@
+![[numerical 2.4.pdf]] #numericalanalysis #LDLT #numericalinstability
