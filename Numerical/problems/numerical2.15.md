@@ -1,1 +1,0 @@
-![[numerical 2.15.pdf]] #numericalanalysis #graphtheory #cholesky 
