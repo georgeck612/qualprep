@@ -1,0 +1,1 @@
+![[numerical 1.24.pdf]] #numericalanalysis #chebyshevpolynomials
