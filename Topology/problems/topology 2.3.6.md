@@ -1,1 +1,0 @@
-![[2.3.6.pdf]] #topology #manifolds #diffeomorphisms

@@ -1,1 +1,0 @@
-![[1.1.2.pdf]] #topology #algebraictopology #homotopytheory
