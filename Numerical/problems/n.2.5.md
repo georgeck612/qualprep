@@ -1,0 +1,1 @@
+![[numerical 2.5.pdf]] #numericalanalysis #linearalgebra #qrfactorization
