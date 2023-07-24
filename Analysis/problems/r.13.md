@@ -1,4 +1,4 @@
-![[real 13.pdf]] #realanalysis #measuretheory #powerseries 
+![[real 13.pdf]] #realanalysis #measuretheory #powerseries #backpocket 
 
 This is the way for these decimal expansion problems. I like this inductive way a lot because then I can make it into a simple combinatorial problem, even if the construction itself is a little overkill.
 
