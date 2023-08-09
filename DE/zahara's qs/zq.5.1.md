@@ -1,0 +1,1 @@
+![[zq.5.1.pdf]] #de #ode #periodicstuff 
