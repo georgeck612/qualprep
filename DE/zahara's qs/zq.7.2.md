@@ -1,3 +1,3 @@
-![[zq.7.2.pdf]] #de #ode #periodicstuff #linearsystems #stability 
+![[zq.7.2.pdf]] #de #ode #periodicstuff #stability 
 
 Yay french theory
