@@ -1,0 +1,1 @@
+![[zq.6.2.pdf]] #de #ode #stability #eigenstuff #bifurcations
