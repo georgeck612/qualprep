@@ -1,0 +1,1 @@
+![[zq.4.1.pdf]] #de #ode #hamiltoniansystems #eigenstuff 
