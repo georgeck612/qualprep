@@ -1,0 +1,1 @@
+![[liheq.1.pdf]] #de #pde #heat 
