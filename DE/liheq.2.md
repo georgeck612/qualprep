@@ -1,0 +1,1 @@
+![[liheq.2.pdf]] #de #pde #existenceuniqueness #heat #backpocket 
