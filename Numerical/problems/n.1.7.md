@@ -1,1 +1,1 @@
-![[n.1.7.pdf]] #numericalanalysis #powerseries #erroranalysis 
+![[n.1.7.pdf]] #numericalanalysis #erroranalysis #taylorseries 

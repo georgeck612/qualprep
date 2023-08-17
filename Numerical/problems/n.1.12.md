@@ -1,0 +1,1 @@
+![[n.1.12.pdf]] #numericalanalysis #newtonsmethod #taylorseries 
